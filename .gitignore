@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+
+# models, face DB, media, logs — never commit
+*.pt
+*.pth
+*.onnx
+*.npy
+*.mp4
+*.avi
+*.mkv
+*.log
+*_resource_log.txt
+runs/
+database_pics/
+
+# unrelated scratch file
+not_project.py

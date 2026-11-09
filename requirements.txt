@@ -1,0 +1,13 @@
+# Install the CUDA build of torch/torchvision for your GPU first: https://pytorch.org/get-started/locally/
+torch
+torchvision
+ultralytics
+boxmot
+insightface
+onnxruntime-gpu
+av
+opencv-python
+numpy
+pillow
+psutil
+nvidia-ml-py
